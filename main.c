@@ -2,6 +2,7 @@
 
 int main()
 {
-	printf("%d",sum(10,10));
+	printf("%d\n",sum(10,10));
+	printf("%d\n"diff(20,10));
 	return  0;
 }
